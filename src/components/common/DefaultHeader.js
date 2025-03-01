@@ -62,7 +62,7 @@ const DefaultHeader = () => {
                 </div>
               </div>
               {/* End .col-auto */}
-
+              {/* 
               <div className="col-auto">
                 <div className="d-flex align-items-center">
                   <a
@@ -105,7 +105,8 @@ const DefaultHeader = () => {
                     />
                   </a>
                 </div>
-              </div>
+              </div> 
+              */}
               {/* End .col-auto */}
             </div>
             {/* End .row */}
