@@ -21,7 +21,7 @@ const Contact = () => {
       {/* End Mobile Nav  */}
 
       {/* Our Contact With Map */}
-      <section className="p-0">
+      {/* <section className="p-0">
         <iframe
           className="home8-map contact-page"
           loading="lazy"
@@ -29,21 +29,21 @@ const Contact = () => {
           title="London Eye, London, United Kingdom"
           aria-label="London Eye, London, United Kingdom"
         />
-      </section>
+      </section> */}
       {/* End Our Contact With Map */}
 
       {/* Start Our Contact Form */}
       <section>
         <div className="container">
           <div className="row d-flex align-items-end">
-            <div className="col-lg-5 position-relative">
+            {/* <div className="col-lg-5 position-relative">
               <div className="home8-contact-form default-box-shadow1 bdrs12 bdr1 p30 mb30-md bgc-white">
                 <h4 className="form-title mb25">
                   Have questions? Get in touch!
                 </h4>
                 <Form />
               </div>
-            </div>
+            </div> */}
             {/* End .col */}
 
             <div className="col-lg-5 offset-lg-2">
