@@ -36,10 +36,7 @@ module.exports = [
     subMenu: [
       { path: "/about", label: "About" },
       { path: "/contact", label: "Contact" },
-      { path: "/compare", label: "Compate" },
-      { path: "/pricing", label: "Pricing" },
       { path: "/faq", label: "Faq" },
-      { path: "/invoice", label: "Invoice" },
     ],
   },
 ];
