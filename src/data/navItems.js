@@ -96,9 +96,6 @@ export const propertyItems = [
 
 export const blogItems = [
   { href: "/blog-list-v1", label: "Blog List V1" },
-  { href: "/blog-list-v2", label: "Blog List V2" },
-  { href: "/blog-list-v3", label: "Blog List V3" },
-  { href: "/blogs/2", label: "Blog Single" },
 ];
 
 export const pageItems = [
