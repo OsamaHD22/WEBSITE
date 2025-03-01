@@ -1,14 +1,14 @@
 module.exports = [
   {
     label: "Home",
-    subMenu: [{ path: "/home-v4", label: "Home v4" }],
+    subMenu: [{ path: "/home-v4", label: "Home" }],
   },
   {
     label: "Listings",
     subMenu: [
       {
         label: "Map Style",
-        subMenu: [{ label: "Map V1", path: "/map-v1" }],
+        subMenu: [{ label: "Map", path: "/map-v1" }],
       },
     ],
   },
@@ -27,10 +27,7 @@ module.exports = [
   {
     label: "Blog",
     subMenu: [
-      { path: "/blog-list-v1", label: "Blog List V1" },
-      { path: "/blog-list-v2", label: "Blog List V2" },
-      { path: "/blog-list-v3", label: "Blog List V3" },
-      { path: "/blogs/2", label: "Blog Single" },
+      { path: "/blog-list-v1", label: "Blog List" },
     ],
   },
 
@@ -42,9 +39,6 @@ module.exports = [
       { path: "/compare", label: "Compate" },
       { path: "/pricing", label: "Pricing" },
       { path: "/faq", label: "Faq" },
-      { path: "/login", label: "Login" },
-      { path: "/register", label: "Register" },
-      { path: "/404", label: "404" },
       { path: "/invoice", label: "Invoice" },
     ],
   },
