@@ -58,8 +58,6 @@ export const propertyItems = [
     subMenuItems: [
       { label: "Agents", href: "/agents" },
       { label: "Agent Single", href: "/agent-single/1" },
-      { label: "Agency", href: "/agency" },
-      { label: "Agency Single", href: "/agency-single/1" },
     ],
   },
   {
