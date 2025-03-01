@@ -1,6 +1,5 @@
 export const homeItems = [
   { href: "/", label: "Home v1" },
-  { href: "/home-v2", label: "Home v2" },
   { href: "/home-v3", label: "Home v3" },
   { href: "/home-v4", label: "Home v4" },
   { href: "/home-v5", label: "Home v5" },
