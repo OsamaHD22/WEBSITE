@@ -25,20 +25,6 @@ module.exports = [
     ],
   },
   {
-    label: "Dashboard",
-    subMenu: [
-      { label: "Dashboard Home", path: "/dashboard-home" },
-      { label: "Message", path: "/dashboard-message" },
-      { label: "New Property", path: "/dashboard-add-property" },
-      { label: "My Properties", path: "/dashboard-my-properties" },
-      { label: "My Favorites", path: "/dashboard-my-favourites" },
-      { label: "Saved Search", path: "/dashboard-saved-search" },
-      { label: "Reviews", path: "/dashboard-reviews" },
-      { label: "My Package", path: "/dashboard-my-package" },
-      { label: "My Profile", path: "/dashboard-my-profile" },
-    ],
-  },
-  {
     label: "Blog",
     subMenu: [
       { path: "/blog-list-v1", label: "Blog List V1" },
